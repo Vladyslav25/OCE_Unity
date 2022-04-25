@@ -1,1 +1,3 @@
 Das ist meine Klasse
+
+Das ist meine zweite Funktion
